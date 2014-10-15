@@ -7,6 +7,7 @@ C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\We
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\nunit.framework.xml
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.xml
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.Support.xml
-C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csprojResolveAssemblyReference.cache
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.exe
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.pdb
+C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.exe.CodeAnalysisLog.xml
+C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.exe.lastcodeanalysissucceeded
