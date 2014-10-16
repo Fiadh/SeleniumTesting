@@ -1,5 +1,5 @@
-C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\SeleniumTesting.exe.config
-C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\SeleniumTesting.exe
+C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\SeleniumTesting.dll.config
+C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\SeleniumTesting.dll
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\SeleniumTesting.pdb
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\nunit.framework.dll
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\WebDriver.dll
@@ -7,6 +7,5 @@ C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debu
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\nunit.framework.xml
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\WebDriver.xml
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\bin\x86\Debug\WebDriver.Support.xml
-C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\x86\Debug\SeleniumTesting.csprojResolveAssemblyReference.cache
-C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\x86\Debug\SeleniumTesting.exe
+C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\x86\Debug\SeleniumTesting.dll
 C:\Users\fiadh_000\Documents\GitHub\SeleniumTesting\SeleniumTesting\obj\x86\Debug\SeleniumTesting.pdb
